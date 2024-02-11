@@ -1,0 +1,81 @@
+{
+  "locations": [
+    {
+      "latitude": 32.7157,
+      "longitude": -117.1611,
+      "title": "San Diego, CA",
+      "summary": "San Diego is a beautiful city on the southern coast of California known for its stunning beaches and perfect climate.",
+      "iconUrl": "leaf-red.png"
+    },
+    {
+      "latitude": 33.9792,
+      "longitude": -118.0328,
+      "title": "Whittier, CA",
+      "summary": "Whittier is a diverse city in Los Angeles County known for its cultural richness and vibrant community.",
+      "iconUrl": "leaf-red.png"
+    },
+    {
+      "latitude": 36.7468,
+      "longitude": -119.7726,
+      "title": "Fresno, CA",
+      "summary": "Fresno is a city in California's Central Valley known for its agricultural industry and warm climate.",
+      "iconUrl": "leaf-red.png"
+    },
+    {
+      "latitude": 32.5149,
+      "longitude": -117.0382,
+      "title": "Tijuana, Mexico",
+      "summary": "Tijuana is a vibrant city in Mexico situated on the border with the United States, known for its lively atmosphere and cultural diversity.",
+      "iconUrl": "leaf-red.png"
+    },
+    {
+      "latitude": 52.5200,
+      "longitude": 13.4050,
+      "title": "Berlin, Germany",
+      "summary": "Berlin, the capital of Germany, is a city rich in history and renowned for its arts, culture, and architecture.",
+      "iconUrl": "leaf-red.png"
+    },
+    {
+      "latitude": 10.3157,
+      "longitude": 123.8854,
+      "title": "Cebu, Philippines",
+      "summary": "Cebu, a province in the Philippines, is known for its beautiful beaches, historical sites, and vibrant nightlife.",
+      "iconUrl": "leaf-red.png"
+    },
+    {
+      "latitude": 36.2100,
+      "longitude": -119.3473,
+      "title": "Tulare, CA",
+      "summary": "Tulare is a city in California's Central Valley known for its agricultural contributions and annual county fair.",
+      "iconUrl": "leaf-red.png"
+    },
+    {
+      "latitude": 29.7604,
+      "longitude": -95.3698,
+      "title": "Houston, Texas",
+      "summary": "Houston, the fourth-largest city in the United States, is known for its diverse culture, space exploration, and energy industry.",
+      "iconUrl": "leaf-red.png"
+    },
+    {
+      "latitude": 33.4484,
+      "longitude": -112.0740,
+      "title": "Phoenix, Arizona",
+      "summary": "Phoenix is the capital and largest city of Arizona, known for its hot desert climate and scenic mountain views.",
+      "iconUrl": "leaf-red.png"
+    },
+    {
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "title": "Los Angeles, CA",
+      "summary": "Los Angeles, often known simply as LA, is a major city in California famous for its entertainment industry, beaches, and diverse population.",
+      "iconUrl": "leaf-red.png"
+    },
+    {
+      "latitude": 38.40732654572523,
+      "longitude": -122.75521610977822,
+      "title": "your location",
+      "summary": "This is Elijah's specified location.",
+      "iconUrl": "marker-icon-2x.png"
+    }
+  ]
+}
